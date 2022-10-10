@@ -2,4 +2,4 @@
 
 ### ✅ Create the Index Page
 ### ✅ Style with CSS
-### ⏱ Implement JavaScript
+### ⏱ Finish project
